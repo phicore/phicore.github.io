@@ -57,6 +57,7 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+| Need ryzen   | 3000              | nice  |
 
 ### There's a horizontal rule below this.
 
